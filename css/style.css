@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+}
+.container-1 {
+    background-color: #f5f5f5;
+}
+.container-1 h1 {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 94px;
+}
+.container-1 p {
+    color: #000;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 25px;
+    padding-bottom: 90px;
+}
+.container-1 button {
+    width: 189px;
+    height: 40px;
+    border-radius: 30px;
+    background: #6f2cff;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 76px;
+    margin-bottom: 101.25px;
+}
+.container-1 .btn2 {
+    color: #6f2cff;
+    background: #fff;
+    margin-left: 22px;
+}
+.container-2 h1 {
+    color: #000;
+    font-size: 40px;
+    margin-top: 77.75px;
+    margin-bottom: 70.25px;
+}
+.container-2 .box {
+    width: 320px;
+    height: 438px;
+    display: inline-block;
+    background: #f5f5f5;
+    margin: 0 25px;
+    box-shadow: 0px 2px 4px 0px rgba(192, 192, 192, 0.5);
+    margin-bottom: 100px;
+}
+.container-2 .icons img {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.container-2 .box .icons p {
+    color: #6f2cff;
+    font-size: 18px;
+    width: 205px;
+    margin: 0 auto;
+}
+.container-3 {
+    background-color: #f5f5f5;
+}
+.container-3 h1 {
+    color: #000;
+    font-size: 40px;
+    padding-top: 64.5px;
+    margin-bottom: 12px;
+}
+.container-3 .pmain {
+    color: #000;
+    font-size: 18px;
+    margin-bottom: 43px;
+}
+.container-3 .box {
+    width: 492.857px;
+    height: 199px;
+    border-radius: 8px 10px 10px 8px;
+    background: #17002e;
+    margin: 0 auto;
+    margin-top: 14.75;
+    display: inline-block;
+    text-align: left;
+}
+.container-3 .box-1 {
+    margin-right: 32.14px;
+}
+.container-3 .header {
+    text-align: left;
+    display: inline-flex;
+    padding-right: 0px;
+    align-items: center;
+    gap: 21.429px;
+    margin-top: 30.25px;
+    margin-left: 32.14px;
+    margin-right: 32.14px;
+}
+.container-3 .header h3 {
+    display: inline-block;
+    color: #f5f5f5;
+    font-size: 18px;
+    margin-right: 21.43px;
+}
+.container-3 .box p {
+    color: #f5f5f5;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 32px;
+}
+.container-3 .box .text {
+    margin-top: 18px;
+    width: 407.143px;
+}
+.container-3 .text-1 {
+    width: 349.286px;
+    margin-top: 18px;
+}
+.container-3 .box .text-2 {
+    margin-top: 8px;
+    margin-bottom: 9px;
+}
+.box .line {
+    width: 383.571px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.box .line-2 {
+    width: 266.786px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.box .line-3 {
+    width: 255px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.box .line-4 {
+    width: 264.643px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.box .line-5 {
+    width: 350.357px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.box .line-6 {
+    width: 320.357px;
+    height: 2px;
+    background: #f5f5f5;
+    margin-left: 32px;
+}
+.container-3 .double-box-2 {
+    margin-top: 30px;
+}
+.container-3 .last {
+    padding-bottom: 83px;
+}
